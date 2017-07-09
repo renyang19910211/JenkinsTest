@@ -1,0 +1,1 @@
+%1 -projectPath %2 -executeMethod JenkinsAdapter.Build -quit -batchmode -logFile build.log
